@@ -1,0 +1,204 @@
+Escudo de Atenea,reduce en 412 el ataque de monstruos de tipo Lanzador de Conjuros,Mágica,L,412,ataque
+Martillo de Thor,reduce en 333 el ataque de monstruos de tipo Zombi,Mágica,Z,333,ataque
+Espada de Arturo,incrementa en 223 el ataque de monstruos de tipo Bestia,Mágica,B,223,ataque
+Llama Infernal,aumenta en 192 la defensa de monstruos de tipo Zombi,Mágica,Z,192,defensa
+Escudo de Atenea,incrementa en 190 el ataque de monstruos de tipo Guerrero,Mágica,G,190,ataque
+Escudo de Atenea,aumenta en 105 la defensa de monstruos de tipo Dragón,Mágica,D,105,defensa
+Martillo de Thor,incrementa en 103 el ataque de monstruos de tipo Zombi,Mágica,Z,103,ataque
+Escudo de Atenea,reduce en 304 el ataque de monstruos de tipo Guerrero,Mágica,G,304,ataque
+Escudo de Atenea,incrementa en 263 el ataque de monstruos de tipo Lanzador de Conjuros,Mágica,L,263,ataque
+Báculo de Ra,incrementa en 402 el ataque de monstruos de tipo Demonio,Mágica,O,402,ataque
+Espada de Arturo,aumenta en 279 la defensa de monstruos de tipo Zombi,Mágica,Z,279,defensa
+Martillo de Thor,incrementa en 127 el ataque de monstruos de tipo Lanzador de Conjuros,Mágica,L,127,ataque
+Martillo de Thor,aumenta en 312 la defensa de monstruos de tipo Demonio,Mágica,O,312,defensa
+Escudo de Atenea,aumenta en 237 la defensa de monstruos de tipo Zombi,Mágica,Z,237,defensa
+Espada de Arturo,reduce en 484 el ataque de monstruos de tipo Guerrero,Mágica,G,484,ataque
+Llama Infernal,aumenta en 197 la defensa de monstruos de tipo Dragón,Mágica,D,197,defensa
+Báculo de Ra,reduce en 359 el ataque de monstruos de tipo Zombi,Mágica,Z,359,ataque
+Cloak of Shadows,reduce en 166 el ataque de monstruos de tipo Lanzador de Conjuros,Mágica,L,166,ataque
+Espada de Arturo,aumenta en 395 la defensa de monstruos de tipo Zombi,Mágica,Z,395,defensa
+Llama Infernal,aumenta en 421 la defensa de monstruos de tipo Guerrero,Mágica,G,421,defensa
+Llama Infernal,incrementa en 459 el ataque de monstruos de tipo Guerrero,Mágica,G,459,ataque
+Cloak of Shadows,aumenta en 392 la defensa de monstruos de tipo Zombi,Mágica,Z,392,defensa
+Escudo de Atenea,aumenta en 343 la defensa de monstruos de tipo Guerrero,Mágica,G,343,defensa
+Espada de Arturo,aumenta en 370 la defensa de monstruos de tipo Demonio,Mágica,O,370,defensa
+Espada de Arturo,reduce en 145 el ataque de monstruos de tipo Bestia,Mágica,B,145,ataque
+Báculo de Ra,incrementa en 218 el ataque de monstruos de tipo Demonio,Mágica,O,218,ataque
+Escudo de Atenea,aumenta en 499 la defensa de monstruos de tipo Dragón,Mágica,D,499,defensa
+Escudo de Atenea,reduce en 115 el ataque de monstruos de tipo Dragón,Mágica,D,115,ataque
+Cloak of Shadows,incrementa en 164 el ataque de monstruos de tipo Bestia,Mágica,B,164,ataque
+Escudo de Atenea,aumenta en 191 la defensa de monstruos de tipo Guerrero,Mágica,G,191,defensa
+Llama Infernal,incrementa en 313 el ataque de monstruos de tipo Demonio,Mágica,O,313,ataque
+Llama Infernal,reduce en 351 el ataque de monstruos de tipo Demonio,Mágica,O,351,ataque
+Martillo de Thor,incrementa en 464 el ataque de monstruos de tipo Guerrero,Mágica,G,464,ataque
+Llama Infernal,reduce en 197 el ataque de monstruos de tipo Bestia,Mágica,B,197,ataque
+Llama Infernal,aumenta en 456 la defensa de monstruos de tipo Zombi,Mágica,Z,456,defensa
+Martillo de Thor,aumenta en 159 la defensa de monstruos de tipo Bestia,Mágica,B,159,defensa
+Báculo de Ra,reduce en 497 el ataque de monstruos de tipo Bestia,Mágica,B,497,ataque
+Espada de Arturo,aumenta en 271 la defensa de monstruos de tipo Guerrero,Mágica,G,271,defensa
+Cloak of Shadows,aumenta en 385 la defensa de monstruos de tipo Bestia,Mágica,B,385,defensa
+Martillo de Thor,aumenta en 205 la defensa de monstruos de tipo Guerrero,Mágica,G,205,defensa
+Báculo de Ra,incrementa en 261 el ataque de monstruos de tipo Guerrero,Mágica,G,261,ataque
+Cloak of Shadows,incrementa en 365 el ataque de monstruos de tipo Lanzador de Conjuros,Mágica,L,365,ataque
+Escudo de Atenea,reduce en 271 el ataque de monstruos de tipo Demonio,Mágica,O,271,ataque
+Escudo de Atenea,incrementa en 293 el ataque de monstruos de tipo Lanzador de Conjuros,Mágica,L,293,ataque
+Martillo de Thor,reduce en 166 el ataque de monstruos de tipo Guerrero,Mágica,G,166,ataque
+Martillo de Thor,aumenta en 246 la defensa de monstruos de tipo Lanzador de Conjuros,Mágica,L,246,defensa
+Llama Infernal,incrementa en 160 el ataque de monstruos de tipo Lanzador de Conjuros,Mágica,L,160,ataque
+Cloak of Shadows,reduce en 188 el ataque de monstruos de tipo Dragón,Mágica,D,188,ataque
+Llama Infernal,incrementa en 251 el ataque de monstruos de tipo Demonio,Mágica,O,251,ataque
+Cloak of Shadows,reduce en 326 el ataque de monstruos de tipo Dragón,Mágica,D,326,ataque		
+Mago de Agua,Una criatura salvaje con fuerza inigualable.,Monstruo,2725,663,Z,AGUA
+Demonio de Tierra,Una criatura salvaje con fuerza inigualable.,Monstruo,1039,2609,G,TIERRA
+Guerrero de Fuego,Un ser formidable que domina el campo de batalla.,Monstruo,2918,659,L,FUEGO
+Bestia de Viento,Un espíritu implacable que no se detiene ante nada.,Monstruo,857,648,L,VIENTO
+Dragón de Tierra,Un ser oscuro que siembra el caos a su paso.,Monstruo,2830,2569,D,TIERRA
+Bestia de Luz,Un ser oscuro que siembra el caos a su paso.,Monstruo,1884,1769,B,LUZ
+Dragón de Fuego,Un ser formidable que domina el campo de batalla.,Monstruo,2050,1082,Z,FUEGO
+Bestia de Luz,Un ser oscuro que siembra el caos a su paso.,Monstruo,2480,1242,G,LUZ
+Demonio de Fuego,Un ser formidable que domina el campo de batalla.,Monstruo,1548,1164,L,FUEGO
+Zombi de Luz,Un maestro de la magia que controla los elementos.,Monstruo,614,1791,B,LUZ
+Zombi de Fuego,Un ser oscuro que siembra el caos a su paso.,Monstruo,755,1721,D,FUEGO
+Dragón de Viento,Un maestro de la magia que controla los elementos.,Monstruo,1253,2923,D,VIENTO
+Guerrero de Oscuridad,Un ser formidable que domina el campo de batalla.,Monstruo,1499,2556,B,OSCURIDAD
+Dragón de Luz,Una criatura salvaje con fuerza inigualable.,Monstruo,2017,2186,O,LUZ
+Demonio de Oscuridad,Un ser oscuro que siembra el caos a su paso.,Monstruo,2299,1490,L,OSCURIDAD
+Dragón de Oscuridad,Un espíritu implacable que no se detiene ante nada.,Monstruo,1435,1916,L,OSCURIDAD
+Bestia de Fuego,Una criatura salvaje con fuerza inigualable.,Monstruo,1306,1921,L,FUEGO
+Guerrero de Agua,Un espíritu implacable que no se detiene ante nada.,Monstruo,1209,1826,D,AGUA
+Zombi de Agua,Una criatura temible con poderes ancestrales.,Monstruo,971,1421,B,AGUA
+Zombi de Fuego,Un espíritu implacable que no se detiene ante nada.,Monstruo,2815,529,O,FUEGO
+Zombi de Viento,Una criatura temible con poderes ancestrales.,Monstruo,1388,1977,D,VIENTO
+Demonio de Oscuridad,Un maestro de la magia que controla los elementos.,Monstruo,2244,2667,O,OSCURIDAD
+Dragón de Tierra,Un espíritu implacable que no se detiene ante nada.,Monstruo,1102,2775,L,TIERRA
+Mago de Oscuridad,Una criatura salvaje con fuerza inigualable.,Monstruo,892,2295,O,OSCURIDAD
+Dragón de Agua,Un maestro de la magia que controla los elementos.,Monstruo,1954,2342,B,AGUA
+Guerrero de Agua,Una criatura salvaje con fuerza inigualable.,Monstruo,514,1204,Z,AGUA
+Dragón de Tierra,Una criatura salvaje con fuerza inigualable.,Monstruo,2416,1701,B,TIERRA
+Demonio de Viento,Una criatura salvaje con fuerza inigualable.,Monstruo,2931,1675,B,VIENTO
+Zombi de Fuego,Una criatura salvaje con fuerza inigualable.,Monstruo,1403,2181,D,FUEGO
+Mago de Viento,Un ser formidable que domina el campo de batalla.,Monstruo,1381,2218,G,VIENTO
+Guerrero de Fuego,Un maestro de la magia que controla los elementos.,Monstruo,1753,1185,O,FUEGO
+Dragón de Oscuridad,Un ser formidable que domina el campo de batalla.,Monstruo,1018,1761,B,OSCURIDAD
+Dragón de Viento,Un espíritu implacable que no se detiene ante nada.,Monstruo,2690,1479,L,VIENTO
+Mago de Luz,Un espíritu implacable que no se detiene ante nada.,Monstruo,1277,1219,G,LUZ
+Dragón de Agua,Un ser oscuro que siembra el caos a su paso.,Monstruo,705,1583,Z,AGUA
+Demonio de Luz,Un ser formidable que domina el campo de batalla.,Monstruo,503,2605,B,LUZ
+Guerrero de Fuego,Un espíritu implacable que no se detiene ante nada.,Monstruo,1478,1584,G,FUEGO
+Dragón de Oscuridad,Un ser formidable que domina el campo de batalla.,Monstruo,1327,506,L,OSCURIDAD
+Zombi de Agua,Una criatura salvaje con fuerza inigualable.,Monstruo,2802,2101,D,AGUA
+Demonio de Luz,Una criatura salvaje con fuerza inigualable.,Monstruo,592,2880,G,LUZ
+Zombi de Agua,Una criatura salvaje con fuerza inigualable.,Monstruo,1257,758,L,AGUA
+Dragón de Agua,Una criatura temible con poderes ancestrales.,Monstruo,2293,1228,Z,AGUA
+Guerrero de Luz,Una criatura salvaje con fuerza inigualable.,Monstruo,718,2028,D,LUZ
+Dragón de Oscuridad,Un espíritu implacable que no se detiene ante nada.,Monstruo,571,754,Z,OSCURIDAD
+Bestia de Tierra,Un maestro de la magia que controla los elementos.,Monstruo,1659,1236,G,TIERRA
+Dragón de Agua,Una criatura salvaje con fuerza inigualable.,Monstruo,1178,2399,L,AGUA
+Demonio de Agua,Un espíritu implacable que no se detiene ante nada.,Monstruo,2246,2987,D,AGUA
+Guerrero de Tierra,Un ser oscuro que siembra el caos a su paso.,Monstruo,580,2126,B,TIERRA
+Guerrero de Agua,Un maestro de la magia que controla los elementos.,Monstruo,539,1895,Z,AGUA
+Dragón de Tierra,Una criatura salvaje con fuerza inigualable.,Monstruo,2789,1913,Z,TIERRA
+Guerrero de Viento,Una criatura temible con poderes ancestrales.,Monstruo,1463,2510,B,VIENTO
+Demonio de Agua,Un espíritu implacable que no se detiene ante nada.,Monstruo,2462,1357,O,AGUA
+Demonio de Oscuridad,Un ser formidable que domina el campo de batalla.,Monstruo,2835,2503,G,OSCURIDAD
+Demonio de Viento,Una criatura salvaje con fuerza inigualable.,Monstruo,851,1534,D,VIENTO
+Demonio de Viento,Una criatura temible con poderes ancestrales.,Monstruo,1256,2297,Z,VIENTO
+Bestia de Agua,Un maestro de la magia que controla los elementos.,Monstruo,1607,1151,Z,AGUA
+Demonio de Oscuridad,Un ser oscuro que siembra el caos a su paso.,Monstruo,652,1704,O,OSCURIDAD
+Guerrero de Viento,Una criatura temible con poderes ancestrales.,Monstruo,1851,1898,O,VIENTO
+Demonio de Agua,Un ser oscuro que siembra el caos a su paso.,Monstruo,972,2427,B,AGUA
+Dragón de Agua,Una criatura temible con poderes ancestrales.,Monstruo,2781,944,D,AGUA
+Demonio de Fuego,Un espíritu implacable que no se detiene ante nada.,Monstruo,1430,1858,Z,FUEGO
+Mago de Oscuridad,Un espíritu implacable que no se detiene ante nada.,Monstruo,845,2521,G,OSCURIDAD
+Zombi de Fuego,Un ser formidable que domina el campo de batalla.,Monstruo,995,1589,L,FUEGO
+Mago de Tierra,Una criatura salvaje con fuerza inigualable.,Monstruo,1544,2278,D,TIERRA
+Mago de Oscuridad,Un ser formidable que domina el campo de batalla.,Monstruo,2041,1389,Z,OSCURIDAD
+Zombi de Agua,Un maestro de la magia que controla los elementos.,Monstruo,2767,2600,O,AGUA
+Demonio de Agua,Un espíritu implacable que no se detiene ante nada.,Monstruo,2513,790,L,AGUA
+Mago de Luz,Un maestro de la magia que controla los elementos.,Monstruo,1905,2204,D,LUZ
+Zombi de Fuego,Una criatura temible con poderes ancestrales.,Monstruo,1529,1758,G,FUEGO
+Guerrero de Viento,Una criatura temible con poderes ancestrales.,Monstruo,1987,2377,O,VIENTO
+Mago de Viento,Un ser oscuro que siembra el caos a su paso.,Monstruo,2930,1074,L,VIENTO
+Guerrero de Fuego,Un maestro de la magia que controla los elementos.,Monstruo,1182,2557,D,FUEGO
+Mago de Viento,Un espíritu implacable que no se detiene ante nada.,Monstruo,1019,2630,Z,VIENTO
+Mago de Oscuridad,Un espíritu implacable que no se detiene ante nada.,Monstruo,1339,1161,G,OSCURIDAD
+Demonio de Oscuridad,Un espíritu implacable que no se detiene ante nada.,Monstruo,2700,1946,B,OSCURIDAD
+Dragón de Oscuridad,Un ser oscuro que siembra el caos a su paso.,Monstruo,807,2259,Z,OSCURIDAD
+Bestia de Tierra,Una criatura temible con poderes ancestrales.,Monstruo,1286,2314,O,TIERRA
+Mago de Viento,Una criatura temible con poderes ancestrales.,Monstruo,2263,1804,O,VIENTO
+Guerrero de Luz,Un espíritu implacable que no se detiene ante nada.,Monstruo,2001,2537,O,LUZ
+Mago de Fuego,Un ser formidable que domina el campo de batalla.,Monstruo,1831,2909,L,FUEGO
+Dragón de Fuego,Un ser oscuro que siembra el caos a su paso.,Monstruo,2314,2227,D,FUEGO
+Bestia de Agua,Un ser oscuro que siembra el caos a su paso.,Monstruo,2331,543,B,AGUA
+Bestia de Oscuridad,Un ser formidable que domina el campo de batalla.,Monstruo,2182,705,G,OSCURIDAD
+Zombi de Oscuridad,Un maestro de la magia que controla los elementos.,Monstruo,1356,2136,G,OSCURIDAD
+Zombi de Viento,Un ser formidable que domina el campo de batalla.,Monstruo,2383,2143,L,VIENTO
+Mago de Oscuridad,Un maestro de la magia que controla los elementos.,Monstruo,740,1171,B,OSCURIDAD
+Guerrero de Fuego,Un ser oscuro que siembra el caos a su paso.,Monstruo,559,2546,L,FUEGO
+Demonio de Agua,Una criatura temible con poderes ancestrales.,Monstruo,2801,1201,Z,AGUA
+Guerrero de Luz,Un maestro de la magia que controla los elementos.,Monstruo,2314,2611,Z,LUZ
+Dragón de Tierra,Un espíritu implacable que no se detiene ante nada.,Monstruo,2090,2059,B,TIERRA
+Demonio de Tierra,Una criatura salvaje con fuerza inigualable.,Monstruo,1052,1692,L,TIERRA
+Bestia de Oscuridad,Un espíritu implacable que no se detiene ante nada.,Monstruo,2794,2591,Z,OSCURIDAD
+Demonio de Agua,Una criatura temible con poderes ancestrales.,Monstruo,2924,919,G,AGUA
+Bestia de Viento,Un ser oscuro que siembra el caos a su paso.,Monstruo,2070,1253,O,VIENTO
+Guerrero de Tierra,Un ser oscuro que siembra el caos a su paso.,Monstruo,1550,1274,D,TIERRA
+Mago de Fuego,Un maestro de la magia que controla los elementos.,Monstruo,2266,2770,D,FUEGO
+Bestia de Fuego,Un maestro de la magia que controla los elementos.,Monstruo,1681,2877,L,FUEGO
+Demonio de Tierra,Un ser oscuro que siembra el caos a su paso.,Monstruo,2251,1034,L,TIERRA
+Zombi de Fuego,Una criatura salvaje con fuerza inigualable.,Monstruo,1289,2495,O,FUEGO
+Demonio de Fuego,Un ser formidable que domina el campo de batalla.,Monstruo,2229,783,D,FUEGO
+Espejo Oscuro de FUEGO,Espejo Oscuro de FUEGO, detiene el ataque de un monstruo con tipo de atributo FUEGO.,Trampa,FUEGO
+Barricada Mágica de TIERRA,Barricada Mágica de TIERRA, detiene el ataque de un monstruo con tipo de atributo TIERRA.,Trampa,TIERRA
+Barricada Mágica de OSCURIDAD,Barricada Mágica de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Fuego Purificador de AGUA,Fuego Purificador de AGUA, detiene el ataque de un monstruo con tipo de atributo AGUA.,Trampa,AGUA
+Tornado de Polvo de OSCURIDAD,Tornado de Polvo de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Barricada Mágica de OSCURIDAD,Barricada Mágica de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Espejo Oscuro de TIERRA,Espejo Oscuro de TIERRA, detiene el ataque de un monstruo con tipo de atributo TIERRA.,Trampa,TIERRA
+Tornado de Polvo de FUEGO,Tornado de Polvo de FUEGO, detiene el ataque de un monstruo con tipo de atributo FUEGO.,Trampa,FUEGO
+Barricada Mágica de TIERRA,Barricada Mágica de TIERRA, detiene el ataque de un monstruo con tipo de atributo TIERRA.,Trampa,TIERRA
+Muralla de Agua de VIENTO,Muralla de Agua de VIENTO, detiene el ataque de un monstruo con tipo de atributo VIENTO.,Trampa,VIENTO
+Torbellino Aéreo de TIERRA,Torbellino Aéreo de TIERRA, detiene el ataque de un monstruo con tipo de atributo TIERRA.,Trampa,TIERRA
+Barricada Mágica de AGUA,Barricada Mágica de AGUA, detiene el ataque de un monstruo con tipo de atributo AGUA.,Trampa,AGUA
+Muralla de Agua de AGUA,Muralla de Agua de AGUA, detiene el ataque de un monstruo con tipo de atributo AGUA.,Trampa,AGUA
+Barricada Mágica de OSCURIDAD,Barricada Mágica de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Espejo Oscuro de VIENTO,Espejo Oscuro de VIENTO, detiene el ataque de un monstruo con tipo de atributo VIENTO.,Trampa,VIENTO
+Espejo Oscuro de TIERRA,Espejo Oscuro de TIERRA, detiene el ataque de un monstruo con tipo de atributo TIERRA.,Trampa,TIERRA
+Espejo Oscuro de AGUA,Espejo Oscuro de AGUA, detiene el ataque de un monstruo con tipo de atributo AGUA.,Trampa,AGUA
+Torbellino Aéreo de FUEGO,Torbellino Aéreo de FUEGO, detiene el ataque de un monstruo con tipo de atributo FUEGO.,Trampa,FUEGO
+Tornado de Polvo de TIERRA,Tornado de Polvo de TIERRA, detiene el ataque de un monstruo con tipo de atributo TIERRA.,Trampa,TIERRA
+Torbellino Aéreo de TIERRA,Torbellino Aéreo de TIERRA, detiene el ataque de un monstruo con tipo de atributo TIERRA.,Trampa,TIERRA
+Muralla de Agua de OSCURIDAD,Muralla de Agua de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Fuego Purificador de FUEGO,Fuego Purificador de FUEGO, detiene el ataque de un monstruo con tipo de atributo FUEGO.,Trampa,FUEGO
+Barricada Mágica de OSCURIDAD,Barricada Mágica de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Torbellino Aéreo de LUZ,Torbellino Aéreo de LUZ, detiene el ataque de un monstruo con tipo de atributo LUZ.,Trampa,LUZ
+Barricada Mágica de LUZ,Barricada Mágica de LUZ, detiene el ataque de un monstruo con tipo de atributo LUZ.,Trampa,LUZ
+Muralla de Agua de TIERRA,Muralla de Agua de TIERRA, detiene el ataque de un monstruo con tipo de atributo TIERRA.,Trampa,TIERRA
+Barricada Mágica de VIENTO,Barricada Mágica de VIENTO, detiene el ataque de un monstruo con tipo de atributo VIENTO.,Trampa,VIENTO
+Barricada Mágica de OSCURIDAD,Barricada Mágica de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Espejo Oscuro de FUEGO,Espejo Oscuro de FUEGO, detiene el ataque de un monstruo con tipo de atributo FUEGO.,Trampa,FUEGO
+Espejo Oscuro de AGUA,Espejo Oscuro de AGUA, detiene el ataque de un monstruo con tipo de atributo AGUA.,Trampa,AGUA
+Fuego Purificador de FUEGO,Fuego Purificador de FUEGO, detiene el ataque de un monstruo con tipo de atributo FUEGO.,Trampa,FUEGO
+Fuego Purificador de VIENTO,Fuego Purificador de VIENTO, detiene el ataque de un monstruo con tipo de atributo VIENTO.,Trampa,VIENTO
+Torbellino Aéreo de AGUA,Torbellino Aéreo de AGUA, detiene el ataque de un monstruo con tipo de atributo AGUA.,Trampa,AGUA
+Espejo Oscuro de LUZ,Espejo Oscuro de LUZ, detiene el ataque de un monstruo con tipo de atributo LUZ.,Trampa,LUZ
+Espejo Oscuro de TIERRA,Espejo Oscuro de TIERRA, detiene el ataque de un monstruo con tipo de atributo TIERRA.,Trampa,TIERRA
+Barricada Mágica de FUEGO,Barricada Mágica de FUEGO, detiene el ataque de un monstruo con tipo de atributo FUEGO.,Trampa,FUEGO
+Fuego Purificador de LUZ,Fuego Purificador de LUZ, detiene el ataque de un monstruo con tipo de atributo LUZ.,Trampa,LUZ
+Torbellino Aéreo de OSCURIDAD,Torbellino Aéreo de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Barricada Mágica de LUZ,Barricada Mágica de LUZ, detiene el ataque de un monstruo con tipo de atributo LUZ.,Trampa,LUZ
+Barricada Mágica de AGUA,Barricada Mágica de AGUA, detiene el ataque de un monstruo con tipo de atributo AGUA.,Trampa,AGUA
+Tornado de Polvo de AGUA,Tornado de Polvo de AGUA, detiene el ataque de un monstruo con tipo de atributo AGUA.,Trampa,AGUA
+Muralla de Agua de OSCURIDAD,Muralla de Agua de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Torbellino Aéreo de FUEGO,Torbellino Aéreo de FUEGO, detiene el ataque de un monstruo con tipo de atributo FUEGO.,Trampa,FUEGO
+Tornado de Polvo de AGUA,Tornado de Polvo de AGUA, detiene el ataque de un monstruo con tipo de atributo AGUA.,Trampa,AGUA
+Muralla de Agua de OSCURIDAD,Muralla de Agua de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Tornado de Polvo de VIENTO,Tornado de Polvo de VIENTO, detiene el ataque de un monstruo con tipo de atributo VIENTO.,Trampa,VIENTO
+Tornado de Polvo de OSCURIDAD,Tornado de Polvo de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+Espejo Oscuro de AGUA,Espejo Oscuro de AGUA, detiene el ataque de un monstruo con tipo de atributo AGUA.,Trampa,AGUA
+Muralla de Agua de FUEGO,Muralla de Agua de FUEGO, detiene el ataque de un monstruo con tipo de atributo FUEGO.,Trampa,FUEGO
+Espejo Oscuro de OSCURIDAD,Espejo Oscuro de OSCURIDAD, detiene el ataque de un monstruo con tipo de atributo OSCURIDAD.,Trampa,OSCURIDAD
+
+
+
+
