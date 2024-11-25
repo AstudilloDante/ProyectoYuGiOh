@@ -24,11 +24,4 @@ def main():
     tablero = Tablero()
     #mostramos la mano al jugadro
     
-    for carta in jugador.mano: 
-        if isinstance(CartaMounstro):
-            print(f"{carta.nombre}  {carta.descripcion} {carta.ataque} {carta.defensa} {carta.tipoMounstro} {carta.atributo}")
-            
-        elif isinstance(CartaMagica):
-            print(f"{carta.nombre} {carta.descripcion}{carta.aumento} {carta.estadistica}")
-            
-        elif isinstance(CartaTrampa):
+   
